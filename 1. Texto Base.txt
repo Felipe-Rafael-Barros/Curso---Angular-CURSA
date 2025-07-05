@@ -1,0 +1,42 @@
+Https://angular.io
+
+codigo fonte do curso: Https://github.com/loiane/curso-angular2
+
+Angular 2
+
+Parceria Google + Microsoft
+
+Open Source (código no Github)
+
+Atualmente na versão RC(Release Candidate)
+
+Não é continuação da versão 1
+
+Foi Reescrito
+
+Uso de padrões web e Web Components
+
+Blocos Principais
+
+    - Componentes
+        - Ancapsula:
+            - Template
+            - Metadata: Processamento das classes
+            - Dado a ser mostrado na tela (Data Binding)
+            - Comportamento da VIEW
+
+    - Diretivas
+    - Roteamento
+    - Serviços
+    - Template
+    - Metadata
+    - Data Binding
+    - Injeção de dependência
+
+Angular 4 
+
+- NgIf e NgFor melhorado
+- Validações para Formulários
+- Renderer(depreciado)
+- Novo Módulo de animações (depreciado)
+- TyperScript 2.1
