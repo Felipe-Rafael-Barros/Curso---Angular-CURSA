@@ -40,3 +40,13 @@ Angular 4
 - Renderer(depreciado)
 - Novo Módulo de animações (depreciado)
 - TyperScript 2.1
+
+
+Instalação:
+
+    1) Node.Js (npm)
+    2) TypeScript: $ npm install -g typescript         - Win
+                 : $ sudo npm install -g typescript    - Linux ou mac
+    3) Angular CLI: npm install -g @angular/cli
+    4) Vscode, WebStorm, ATOM, Sublime text
+    
