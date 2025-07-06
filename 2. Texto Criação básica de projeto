@@ -1,0 +1,9 @@
+1) Criar projeto
+ng new Hello_World
+
+3) Entra na pasta
+cd Hello_World
+
+2) Rodar o projeto
+ng serve
+
