@@ -1,0 +1,17 @@
+1) Criar projeto
+ng new Hello_World
+
+2) Entra na pasta
+cd Hello_World
+
+3) Rodar o projeto
+ng serve
+
+4) Como gerar um novo componet automaticament:
+ng g c meu-primeiro2
+
+5) Arquivo meu-primeiro2.component.spec.ts é feito para fazer testes unitários
+
+6) O tao chamado módulo é em app.ts
+
+7) Lembre de sempre chamar o component no app.ts
